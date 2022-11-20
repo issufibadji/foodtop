@@ -42,7 +42,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 1. ✔️ (HTML)
 2. ✔️ (CSS)
-3. ✔️ (JS)
+3. ❌(JS)
 
 ## 🔖Layout
 
