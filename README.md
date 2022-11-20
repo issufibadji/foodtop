@@ -21,7 +21,7 @@
    <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/foodtop?style=flat-square">
 </p>
 
-![foodtop](https://github.com/issufibadji/foodtop/blob/master/assets/foodtop.png)
+![foodtop](https://github.com/issufibadji/foodtop/blob/master/foodtop.png)
 
 ## :book: Sobre
 
